@@ -1,0 +1,23 @@
+import math
+impor syshhdef inhdx_to_bytes(value, bits):h h  n =, bis // 8:  ief bit %/  ! =0):
+  
+ h   + =18h retur n(vale._to_byte(ne,'lbitle')s
+h  ih  ort(2 < =tln( ss.argv)2  =3s)1 pr it('Usage:1 byhon'e,(ss.arv[0]n, iput_fitl (opu iput_ftl)e's)exbi(-1')s
+
+wbih opetlne,s.arg[10] 'rbe' abisutfges)dmaan  bisf.h rad(1)hictiho.aya {(i,s)f n  pos)  i ranagrt(56)}hseqluncea 'ls it()
+(otpmabih =tlnss.r[2]f ef =ln(sy(s.rgv)=2 = elhsor n(ye,saarv[1h   0] .lzw'h# chod ?e'  e:b'? hi cin2 = elcee:b
+h#hiefl =s(s.gn 2 =0:h#
+ 
+otpata eflsarv[2b ehs2 =:   
+ opaat or ytlnsrarv1+h    .lzwh
+wtpt ope (oupan,wrbv) an  fiutfe):
+  fn  o smf  ns)dta0:     hseqpencs.popin =l(m1)0: h ke.ay =etptln(sequncm)1) hih k.ays) idhictiorya:1) 
+ hicctnlu)a:  n = mat.ncfi( =mh0] .og2(efls) idictinhoa)hoa)s)
+  ind_ nvlua efldhittinior[hik[:(-]]hoa)  eqend_va nvu =
+ is)ex_to_bytes =ihdx_vueh  nc)0:  fwpryt(  ehdxv it)a: hdxve  oea dicina]h  oedctoyior[ke2] =hdxvna h# pris(nd_a_ve'->n' hikhdxv)1)   sseucebih=n(eeqee[(-:]]')
+
+ a: nt paat.enci(mh.og2(e edia diiorhoa)h  )m  ida: v =h dhitnctoy =tpl1) sn(ee):]
+ (es(aa esis)e__t__bt{(in
+ iehdxve,nhoa))0: fwreyt(luneqe_(vlhik)0: h#rg[e,2e,3)]1) 0: #e,3lu)] e' hdxvh#a[b2]'- [a2](abv)2]-a de' , [eb]>'- [btl beb)b]>2]-dutfe
+hik) 2 = e,3utfe
+ aa d(aab[ce]'- (aa](ace) b]>d)h#pn it =dicia

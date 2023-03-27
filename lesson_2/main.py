@@ -59,3 +59,6 @@ with open(outpath, 'wb') as file:
         # a
         # ab
         # ab[c] -> [ab] (abc) -> dict
+
+
+print(dictionary)
